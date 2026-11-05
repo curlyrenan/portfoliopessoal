@@ -12,4 +12,5 @@ O site reúne informações sobre minha trajetória acadêmica, habilidades, for
 ## Como visualizar
 
 Baixe a pasta do `portfolio`.
-Abra o arquivo `index.html` em um navegador ou pela extensão live server no Visual Studio.
+Abra o arquivo `index.html` em um navegador ou pela extensão live server no VS Code.
+ou então abra pelo Github pages.
